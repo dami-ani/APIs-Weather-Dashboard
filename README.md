@@ -1,7 +1,7 @@
 # APIs-Weather-Dashboard
 5 Day Weather Forecast API - To retrieve weather data for cities.
 
-https://dami-ani.github.io/APIs-Weather-Dashbord/
+https://dami-ani.github.io/APIs-Weather-Dashboard/
 
 ## User Story
 ```md
@@ -31,7 +31,7 @@ SO THAT I can plan a trip accordingly
 
 ## Site Preview
 
-![Preview](./assets/images/screenshot.gif)
+![Preview](./assets/images/Screenshot.png)
 
 ## License
 ```md
