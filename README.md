@@ -31,7 +31,7 @@ SO THAT I can plan a trip accordingly
 
 ## Site Preview
 
-![Preview](./assets/images/Screenshot.png)
+![Preview](./assets/images/screenshot.png)
 
 ## License
 ```md
