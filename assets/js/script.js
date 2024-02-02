@@ -112,10 +112,10 @@ function localPreviousSearches() {
 
 // Function to handle click events on previous search buttons
 function clickEventToPreviousButtons() {
-  $('.location-history button').on('click', function () {
+  $('.location-history').on('click', function () {
     searchInput.val($(this).data('location'));
 
-    $('.location-history button').removeClass('btn-info').addClass('btn-secondary');
+    $('.location-history').removeClass('btn-info').addClass('btn-secondary');
     $(this).removeClass('btn-secondary').addClass('btn-info');
     getWeather();
   });
